@@ -1,2 +1,3 @@
-# CISDC.github.io
-Home page of cisdc.org
+# MIT Vaccine Website
+
+This repo has the source code for the pandemic.mit.edu website.
