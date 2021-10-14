@@ -1,3 +1,3 @@
-# MIT Vaccine Website
+# Data Informatics Centre for Epidemiology
 
-This repo has the source code for the pandemic.mit.edu website.
+This repo has the source code for the dice.pathcheck.org website.
