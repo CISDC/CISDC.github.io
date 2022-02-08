@@ -348,8 +348,13 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.active{
+  border-bottom: 1.5px solid #000; padding-bottom: 3px
+}
+
 .nav-menu .menu-active a, .nav-menu a:hover {
   color: #191919;
+  /* background-color: #102B43; */
 }
 
 .nav-menu > li {
@@ -363,7 +368,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #102B43;
+  /* background-color: #102B43; */
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
